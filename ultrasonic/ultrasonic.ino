@@ -1,5 +1,5 @@
-const int trigPin = 12;
-const int echoPin = 14;
+const int trigPin = 12; //D6
+const int echoPin = 14; //D5
 #define SOUND_VELOCITY 0.034
 int volume = 30;
 long duration;
